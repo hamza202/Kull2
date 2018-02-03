@@ -20,22 +20,12 @@
                         <ul class="menu">
                             <li class="menu-item-has-children">
                                 <a href="index.php">O nás</a>
-
                             </li>
                             <li class="menu-item-has-children">
                                 <a href="project.php">Okná</a>
                             </li>
                             <li class="menu-item-has-children">
                                 <a href="project2.php">Dvere</a>
-<!--                                <ul>-->
-<!--                                    <li><a href="#">Referencie 1</a></li>-->
-<!--                                    <li><a href="#">Referencie 2</a></li>-->
-<!--                                    <li><a href="#">Referencie 3</a></li>-->
-<!--                                    <li><a href="#">Referencie 4</a></li>-->
-<!--                                    <li><a href="#">Referencie 5</a></li>-->
-<!---->
-<!---->
-<!--                                </ul>-->
                             </li>
                             <li class="menu-item-has-children">
                                 <a href="project3.php">Garážové brány</a>
@@ -44,13 +34,13 @@
                                 <a href="project4.php">Tieniaca technika</a>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="buld.php">Posúvne okenné systémy</a>
+                                <a href="project5.php">Posúvne okenné systémy</a>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="buld.php">Žaluzie a parapety</a>
+                                <a href="project6.php">Žaluzie a parapety</a>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="buld.php">Kalkulácia </a>
+                                <a href="project7.php">Kalkulácia </a>
                             </li>
                             <li class="menu-item-has-children">
                                 <a href="contact.php"> Kontakt </a>
@@ -67,56 +57,33 @@
         <nav id="mobile-menu-01" class="mobile-menu collapse">
             <ul id="mobile-primary-menu" class="menu">
                 <li class="menu-item-has-children">
+                    <a href="index.php">O nás</a>
                 </li>
                 <li class="menu-item-has-children">
-                    <a href="index.php">O nás </a>
+                    <a href="project.php">Okná</a>
                 </li>
                 <li class="menu-item-has-children">
-                    <a href="project.php">Činnosť firmy</a>
+                    <a href="project2.php">Dvere</a>
                 </li>
                 <li class="menu-item-has-children">
-                    <a href="referencie.php">Referencie</a>
-<!--                    <ul>-->
-<!--                        <li><a href="#">Referencie 1</a></li>-->
-<!--                        <li><a href="#">Referencie 2</a></li>-->
-<!--                        <li><a href="#">Referencie 3</a></li>-->
-<!--                        <li><a href="#">Referencie 4</a></li>-->
-<!--                        <li><a href="#">Referencie 5</a></li>-->
-<!---->
-<!--                    </ul>-->
+                    <a href="project3.php">Garážové brány</a>
                 </li>
                 <li class="menu-item-has-children">
-                    <a href="buld.php">Postavíme pre vás</a>
+                    <a href="project4.php">Tieniaca technika</a>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="project5.php">Posúvne okenné systémy</a>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="project6.php">Žaluzie a parapety</a>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="project7.php">Kalkulácia </a>
                 </li>
                 <li class="menu-item-has-children">
                     <a href="contact.php"> Kontakt </a>
                 </li>
-<!--            </ul>-->
-<!---->
-<!--            <ul class="mobile-topnav container">-->
-<!--                <li><a href="#">MY ACCOUNT</a></li>-->
-<!--                <li class="ribbon language menu-color-skin">-->
-<!--                    <a href="#" data-toggle="collapse">ENGLISH</a>-->
-<!--                    <ul class="menu mini">-->
-<!--                        <li><a href="#" title="Dansk">Dansk</a></li>-->
-<!--                        <li><a href="#" title="Deutsch">Deutsch</a></li>-->
-<!--                        <li class="active"><a href="#" title="English">English</a></li>-->
-<!--                        <li><a href="#" title="Español">Español</a></li>-->
-<!--                        <li><a href="#" title="Français">Français</a></li>-->
-<!--                        <li><a href="#" title="Italiano">Italiano</a></li>-->
-<!--                        <li><a href="#" title="Magyar">Magyar</a></li>-->
-<!--                        <li><a href="#" title="Nederlands">Nederlands</a></li>-->
-<!--                        <li><a href="#" title="Norsk">Norsk</a></li>-->
-<!--                        <li><a href="#" title="Polski">Polski</a></li>-->
-<!--                        <li><a href="#" title="Português">Português</a></li>-->
-<!--                        <li><a href="#" title="Suomi">Suomi</a></li>-->
-<!--                        <li><a href="#" title="Svenska">Svenska</a></li>-->
-<!--                    </ul>-->
-<!--                </li>-->
-<!--                <li><a href="#travelo-login" class="soap-popupbox">LOGIN</a></li>-->
-<!--                <li><a href="#travelo-signup" class="soap-popupbox">SIGNUP</a></li>-->
-<!--            </ul>-->
-
+            </ul>
         </nav>
     </div>
 
