@@ -26,7 +26,7 @@
                                 <a href="project.php">Okná</a>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="referencie.php">Dvere</a>
+                                <a href="project2.php">Dvere</a>
 <!--                                <ul>-->
 <!--                                    <li><a href="#">Referencie 1</a></li>-->
 <!--                                    <li><a href="#">Referencie 2</a></li>-->
@@ -38,10 +38,10 @@
 <!--                                </ul>-->
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="buld.php">Garážové brány</a>
+                                <a href="project3.php">Garážové brány</a>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="buld.php">Tieniaca technika</a>
+                                <a href="project4.php">Tieniaca technika</a>
                             </li>
                             <li class="menu-item-has-children">
                                 <a href="buld.php">Posúvne okenné systémy</a>
