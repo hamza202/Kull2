@@ -184,97 +184,45 @@
                     <ul id="content-slider" class="content-slider m-t-45">
                         <li>
                             <div class="av-bg">
-                                <img src="images/suppliers/01.jpg">
+                                <img src="images/suppliers/1.png">
                             </div>
 
                         </li>
                         <li>
                             <div class="av-bg">
-                                <img src="images/suppliers/02.jpg">
+                                <img src="images/suppliers/2.jpg">
                             </div>
 
                         </li>
                         <li>
                             <div class="av-bg">
-                                <img src="images/suppliers/03.jpg">
+                                <img src="images/suppliers/3.jpg">
                             </div>
 
                         </li>
                         <li>
                             <div class="av-bg">
-                                <img src="images/suppliers/04.jpg">
+                                <img src="images/suppliers/4.jpg">
                             </div>
 
                         </li>
                         <li>
                             <div class="av-bg">
-                                <img src="images/suppliers/05.jpg">
+                                <img src="images/suppliers/5.png">
                             </div>
 
                         </li>
                         <li>
                             <div class="av-bg">
-                                <img src="images/suppliers/06.jpg">
+                                <img src="images/suppliers/6.jpg">
                             </div>
 
                         </li>
                         <li>
                             <div class="av-bg">
-                                <img src="images/suppliers/07.jpg">
+                                <img src="images/suppliers/7.png">
                             </div>
 
-                        </li>
-                        <li>
-                            <div class="av-bg">
-                                <img src="images/suppliers/08.jpg">
-                            </div>
-
-                        </li>
-                        <li>
-                            <div class="av-bg">
-                                <img src="images/suppliers/09.gif">
-                            </div>
-
-                        </li>
-                        <li>
-                            <div class="av-bg">
-                                <img src="images/suppliers/10.jpg">
-                            </div>
-                        </li>
-                        <li>
-                            <div class="av-bg">
-                                <img src="images/suppliers/11.jpg">
-                            </div>
-                        </li>
-                        <li>
-                            <div class="av-bg">
-                                <img src="images/suppliers/12.jpg">
-                            </div>
-                        </li>
-                        <li>
-                            <div class="av-bg">
-                                <img src="images/suppliers/13.jpg">
-                            </div>
-                        </li>
-                        <li>
-                            <div class="av-bg">
-                                <img src="images/suppliers/14.jpg">
-                            </div>
-                        </li>
-                        <li>
-                            <div class="av-bg">
-                                <img src="images/suppliers/15.jpg">
-                            </div>
-                        </li>
-                        <li>
-                            <div class="av-bg">
-                                <img src="images/suppliers/16.jpg">
-                            </div>
-                        </li>
-                        <li>
-                            <div class="av-bg">
-                                <img src="images/suppliers/17.jpg">
-                            </div>
                         </li>
                     </ul>
                 </div>
@@ -286,11 +234,11 @@
 </div>
 
 <!--left Side-->
-<div class="logo-2">
-        <a href="#" title="">
-            <img src="images/logo2.png" alt=""/>
-        </a>
-</div>
+<!--<div class="logo-2">-->
+<!--        <a href="#" title="">-->
+<!--            <img src="images/logo2.png" alt=""/>-->
+<!--        </a>-->
+<!--</div>-->
 
 <!--End left side-->
 <!-- Javascript -->

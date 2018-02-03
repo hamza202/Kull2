@@ -6,16 +6,16 @@
             Mobile Menu Toggle
         </a>
 
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-sm-2 col-xs-6">
+                <div class="col-sm-1 col-xs-6">
                     <h1 class="logo navbar-brand">
                         <a href="#" title="">
                             <img src="images/logo.png" alt=""/>
                         </a>
                     </h1>
                 </div>
-                <div class="col-sm-9">
+                <div class="col-sm-11">
                     <nav id="main-menu" role="navigation">
                         <ul class="menu">
                             <li class="menu-item-has-children">
@@ -23,10 +23,10 @@
 
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="project.php">Činnosť firmy</a>
+                                <a href="project.php">Okná</a>
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="referencie.php">Referencie</a>
+                                <a href="referencie.php">Dvere</a>
 <!--                                <ul>-->
 <!--                                    <li><a href="#">Referencie 1</a></li>-->
 <!--                                    <li><a href="#">Referencie 2</a></li>-->
@@ -38,7 +38,19 @@
 <!--                                </ul>-->
                             </li>
                             <li class="menu-item-has-children">
-                                <a href="buld.php">Postavíme pre vás</a>
+                                <a href="buld.php">Garážové brány</a>
+                            </li>
+                            <li class="menu-item-has-children">
+                                <a href="buld.php">Tieniaca technika</a>
+                            </li>
+                            <li class="menu-item-has-children">
+                                <a href="buld.php">Posúvne okenné systémy</a>
+                            </li>
+                            <li class="menu-item-has-children">
+                                <a href="buld.php">Žaluzie a parapety</a>
+                            </li>
+                            <li class="menu-item-has-children">
+                                <a href="buld.php">Kalkulácia </a>
                             </li>
                             <li class="menu-item-has-children">
                                 <a href="contact.php"> Kontakt </a>

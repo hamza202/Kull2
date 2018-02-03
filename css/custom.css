@@ -7,7 +7,7 @@
 }
 #main-menu >ul > li a{
     color: #085AA1;
-    font-size: 14px;
+    font-size: 13px;
 }
 #main-menu ul.menu > li, .chaser ul.menu > li{
     float: none;
@@ -24,8 +24,8 @@ ul.menu{
     text-align: center;
 }
 #main-menu ul.menu > li, .chaser ul.menu > li {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 #main-menu ul.menu > li ul, .chaser ul.menu > li ul{
     background: #fff;
@@ -84,8 +84,8 @@ ul.menu{
     font-weight: bold;
 }
 #header .logo img{
-    height: 53px !important;
-    margin-top: -17px !important;
+    height: 36px !important;
+    margin-top: -8px !important;
 }
 @media (max-width: 991px) {
     #header .mobile-menu-toggle {
@@ -248,7 +248,28 @@ a.button:hover {
 h4.box-title{
     padding-top: 15px;
 }
-
+.listing-style3.hotel .details > *:first-child > *,
+.listing-style3.hotel .details > * > *:first-child{
+    border: 0;
+}
+.hover-effect:after{
+    background-color: rgba(10, 95, 157, 0.57);
+}
+.btn-div{
+    border-left: #f5f5f5 1px solid;
+}
+.listing-style3.hotel .details .button{
+    margin-top: 0;
+}
+.image-carousel.style1 .flex-direction-nav li a{
+    background: rgba(10, 95, 157, 0.75);
+}
+.image-carousel.style1 .flex-direction-nav li a:hover{
+    background: rgba(10, 95, 157, 1);
+}
+.chaser .logo img{
+    height: 37px;
+}
 /*End project page*/
 /*Start media query*/
 @media only screen and (max-width : 979px) {

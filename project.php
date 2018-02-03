@@ -55,176 +55,91 @@
     <div class="page-title-container">
         <div class="container">
             <div class="page-title pull-left">
-                <h2 class="entry-title">Činnosť firmy</h2>
+                <h2 class="entry-title">Okná</h2>
             </div>
             <ul class="breadcrumbs pull-right">
                 <li><a href="index.php">O nás</a></li>
-                <li class="active">Činnosť firmy</li>
+                <li class="active">Okná</li>
             </ul>
         </div>
     </div>
 
     <section id="content">
         <div class="container">
-            <div id="main">
-                <div class="gallery-filter box">
-                    <a href="#" class="button btn-medium active" data-filter="filter-all">All</a>
-                    <a href="#" class="button btn-medium" data-filter="filter-countries">project1</a>
-                    <a href="#" class="button btn-medium" data-filter="filter-adventure">project1</a>
-                    <a href="#" class="button btn-medium" data-filter="filter-island">project1</a>
-                    <a href="#" class="button btn-medium" data-filter="filter-beach">project1</a>
+            <div class="row">
+                <div class="col-lg-3 pull-right">
+                    <h1>Okná</h1>
+                    <p>Nam volutpat aliquam sem, in tristique felis luctus consectetur. In molestie quis velit eget mattis. Vivamus libero eros, euismod at bibendum vel, aliquet a nunc. Proin viverra eleifend metus, sit amet bibendum orci. Sed eget semper odio. Mauris fermentum porttitor augue eu vehicula. Quisque congue velit turpis, sit amet interdum quam facilisis in. Proin venenatis purus a ipsum porttitor, sed cursus libero bibendum. Aenean auctor felis et sagittis egestasonec lobortis.</p>
                 </div>
-                <div class="items-container isotope image-box style9 row">
-                    <div class="iso-item col-xs-12 filter-all filter-island filter-beach">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                    <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                        tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                        eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-island filter-beach">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-countries">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-beach">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-countries">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-beach filter-island">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-adventure">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-countries">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-island filter-beach">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-beach">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-countries">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-beach">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-beach">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
-                    <div class="iso-item col-xs-12 filter-all filter-island">
-                        <article class="box">
-                            <figure>
-                                <h4 class="box-title text-center">Test text</h4>
-                                <p >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid architecto eum
-                                    tempora? Dolorum error iusto necessitatibus officiis rem sequi. Ad doloremque
-                                    eos id impedit labore laboriosam nemo nihil quis tempore?</p>
-                            </figure>
-                        </article>
-                    </div>
+                <div class="col-lg-9 listing-style3 hotel">
+                    <article class="box">
+                        <figure class="col-sm-5 col-md-4">
+                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/1.png"></a>
+                        </figure>
+                        <div class="details col-xs-12 col-sm-7 col-md-8">
+                            <div>
+                                <div>
+                                    <h4 class="box-title">Test Title</h4>
+                                </div>
+                            </div>
+                            <div>
+                                <p>Nunc cursus libero purus ac congue ar lorem cursus ut sed vitae pulvinar massa idend porta nequetiam elerisque mi id, consectetur adipi deese cing elit maus fringilla bibe endum.</p>
+                                <div class="btn-div">
+                                    <a class="button btn-small full-width text-center" title="" href="detail.php">More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="box">
+                        <figure class="col-sm-5 col-md-4">
+                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/2.png"></a>
+                        </figure>
+                        <div class="details col-xs-12 col-sm-7 col-md-8">
+                            <div>
+                                <div>
+                                    <h4 class="box-title">Test Title</h4>
+                                </div>
+                            </div>
+                            <div>
+                                <p>Nunc cursus libero purus ac congue ar lorem cursus ut sed vitae pulvinar massa idend porta nequetiam elerisque mi id, consectetur adipi deese cing elit maus fringilla bibe endum.</p>
+                                <div class="btn-div">
+                                    <a class="button btn-small full-width text-center" title="" href="detail.php">More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="box">
+                        <figure class="col-sm-5 col-md-4">
+                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/3.png"></a>
+                        </figure>
+                        <div class="details col-xs-12 col-sm-7 col-md-8">
+                            <div>
+                                <div>
+                                    <h4 class="box-title">Test Title</h4>
+                                </div>
+                            </div>
+                            <div>
+                                <p>Nunc cursus libero purus ac congue ar lorem cursus ut sed vitae pulvinar massa idend porta nequetiam elerisque mi id, consectetur adipi deese cing elit maus fringilla bibe endum.</p>
+                                <div class="btn-div">
+                                    <a class="button btn-small full-width text-center" title="" href="detail.php">More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
                 </div>
-                <ul class="pagination clearfix">
-                    <li class="prev disabled"><a href="#">Previous</a></li>
-                    <li class="active"><a href="#">1</a></li>
-                    <li><a href="#">2</a></li>
-                    <li><a href="#">3</a></li>
-                    <li class="disabled"><span>...</span></li>
-                    <li><a href="#">5</a></li>
-                    <li class="next"><a href="#">Next</a></li>
-                </ul>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <ul class="pagination clearfix">
+                        <li class="prev disabled"><a href="#">Previous</a></li>
+                        <li class="active"><a href="#">1</a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li class="disabled"><span>...</span></li>
+                        <li><a href="#">5</a></li>
+                        <li class="next"><a href="#">Next</a></li>
+                    </ul>
+                </div>
             </div>
         </div>
     </section>
