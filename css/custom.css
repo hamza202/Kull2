@@ -270,6 +270,12 @@ h4.box-title{
 .chaser .logo img{
     height: 37px;
 }
+.icon-box.style5{
+    margin-bottom: 45px !important;
+}
+.travelo-google-map{
+    height: 300px !important;
+}
 /*End project page*/
 /*Start media query*/
 @media only screen and (max-width : 979px) {

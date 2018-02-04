@@ -64,40 +64,46 @@
                 <section id="content">
                     <div class="container">
                         <div id="main">
-                            <div class="travelo-google-map block">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d650.501877404692!2d21.272793829201472!3d49.2952008733258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDnCsDE3JzQyLjciTiAyMcKwMTYnMjQuMCJF!5e0!3m2!1ssk!2sus!4v1517241478079" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            <div class="row">
+                                <div class="col-sm-5">
+                                    <div class="col-md-12 ">
+                                        <div class="icon-box style5">
+                                            <i class="soap-icon-phone"></i>
+                                            <div class="description">
+                                                <small>We are on 24/7</small>
+                                                <h5>Tel./Fax: +421 54 472 21 52
+                                                </h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="icon-box style5">
+                                            <i class="soap-icon-message"></i>
+                                            <div class="description">
+                                                <small>Send us email on</small>
+                                                <h5>info@topoknoslovakia.sk</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="icon-box style5">
+                                            <i class="soap-icon-address"></i>
+                                            <div class="description">
+                                                <small>meet us at</small>
+                                                <h5>KULL s.r.o.
+                                                    Hurbanova ul.11
+                                                    085 01 Bardejov
+                                                    Slovensko</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-7">
+                                    <div class="travelo-google-map block">
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d650.501877404692!2d21.272793829201472!3d49.2952008733258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDnCsDE3JzQyLjciTiAyMcKwMTYnMjQuMCJF!5e0!3m2!1ssk!2sus!4v1517241478079" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                    </div>
+                                </div>
                             </div>
-                                <div class="col-md-4">
-                                    <div class="icon-box style5">
-                                        <i class="soap-icon-phone"></i>
-                                        <div class="description">
-                                            <small>We are on 24/7</small>
-                                            <h5>Tel./Fax: +421 54 472 21 52
-                                            </h5>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="icon-box style5">
-                                        <i class="soap-icon-message"></i>
-                                        <div class="description">
-                                            <small>Send us email on</small>
-                                            <h5>info@topoknoslovakia.sk</h5>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="icon-box style5">
-                                        <i class="soap-icon-address"></i>
-                                        <div class="description">
-                                            <small>meet us at</small>
-                                            <h5>KULL s.r.o.
-                                                Hurbanova ul.11
-                                                085 01 Bardejov
-                                                Slovensko</h5>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                             <div class="travelo-box box-full">
                                 <div class="contact-form">
