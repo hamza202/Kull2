@@ -1,5 +1,17 @@
 <header id="header" class="navbar-static-top">
-
+    <div class="topnav hidden-xs">
+        <div class="container">
+            <ul class="quick-menu pull-left">
+                <li class="ribbon">
+                    <a href="#">English</a>
+                    <ul class="menu mini">
+                        <li class="active"><a href="#" title="English">English</a></li>
+                        <li><a href="#" title="Español">Slovak</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
     <div class="main-header">
 
         <a href="#mobile-menu-01" data-toggle="collapse" class="mobile-menu-toggle">
@@ -82,6 +94,15 @@
                 </li>
                 <li class="menu-item-has-children">
                     <a href="contact.php"> Kontakt </a>
+                </li>
+            </ul>
+            <ul class="mobile-topnav container">
+                <li class="ribbon language menu-color-skin">
+                    <a href="#" data-toggle="collapse">ENGLISH</a>
+                    <ul class="menu mini">
+                        <li class="active"><a href="#" title="English">English</a></li>
+                        <li><a href="#" title="Español">Slovak</a></li>
+                    </ul>
                 </li>
             </ul>
         </nav>

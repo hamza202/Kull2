@@ -74,43 +74,43 @@
                 <div class="col-lg-9 listing-style3 hotel">
                     <article class="box">
                         <figure class="col-sm-5 col-md-4">
+                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/13.png"></a>
+                        </figure>
+                        <div class="details col-xs-12 col-sm-7 col-md-8">
+                            <div>
+                                <div>
+                                    <h4 class="box-title">Test Title</h4>
+                                </div>
+                            </div>
+                            <div>
+                                <p>Nunc cursus libero purus ac congue ar lorem cursus ut sed vitae pulvinar massa idend porta nequetiam elerisque mi id, consectetur adipi deese cing elit maus fringilla bibe endum.</p>
+                                <div class="btn-div">
+                                    <a class="button btn-small full-width text-center" title="" href="detail.php">More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="box">
+                        <figure class="col-sm-5 col-md-4">
+                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/14.png"></a>
+                        </figure>
+                        <div class="details col-xs-12 col-sm-7 col-md-8">
+                            <div>
+                                <div>
+                                    <h4 class="box-title">Test Title</h4>
+                                </div>
+                            </div>
+                            <div>
+                                <p>Nunc cursus libero purus ac congue ar lorem cursus ut sed vitae pulvinar massa idend porta nequetiam elerisque mi id, consectetur adipi deese cing elit maus fringilla bibe endum.</p>
+                                <div class="btn-div">
+                                    <a class="button btn-small full-width text-center" title="" href="detail.php">More Details</a>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="box">
+                        <figure class="col-sm-5 col-md-4">
                             <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/1.png"></a>
-                        </figure>
-                        <div class="details col-xs-12 col-sm-7 col-md-8">
-                            <div>
-                                <div>
-                                    <h4 class="box-title">Test Title</h4>
-                                </div>
-                            </div>
-                            <div>
-                                <p>Nunc cursus libero purus ac congue ar lorem cursus ut sed vitae pulvinar massa idend porta nequetiam elerisque mi id, consectetur adipi deese cing elit maus fringilla bibe endum.</p>
-                                <div class="btn-div">
-                                    <a class="button btn-small full-width text-center" title="" href="detail.php">More Details</a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                    <article class="box">
-                        <figure class="col-sm-5 col-md-4">
-                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/2.png"></a>
-                        </figure>
-                        <div class="details col-xs-12 col-sm-7 col-md-8">
-                            <div>
-                                <div>
-                                    <h4 class="box-title">Test Title</h4>
-                                </div>
-                            </div>
-                            <div>
-                                <p>Nunc cursus libero purus ac congue ar lorem cursus ut sed vitae pulvinar massa idend porta nequetiam elerisque mi id, consectetur adipi deese cing elit maus fringilla bibe endum.</p>
-                                <div class="btn-div">
-                                    <a class="button btn-small full-width text-center" title="" href="detail.php">More Details</a>
-                                </div>
-                            </div>
-                        </div>
-                    </article>
-                    <article class="box">
-                        <figure class="col-sm-5 col-md-4">
-                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/3.png"></a>
                         </figure>
                         <div class="details col-xs-12 col-sm-7 col-md-8">
                             <div>

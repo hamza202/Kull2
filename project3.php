@@ -74,7 +74,7 @@
                 <div class="col-lg-9 listing-style3 hotel">
                     <article class="box">
                         <figure class="col-sm-5 col-md-4">
-                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/1.png"></a>
+                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/7.png"></a>
                         </figure>
                         <div class="details col-xs-12 col-sm-7 col-md-8">
                             <div>
@@ -92,7 +92,7 @@
                     </article>
                     <article class="box">
                         <figure class="col-sm-5 col-md-4">
-                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/2.png"></a>
+                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/8.png"></a>
                         </figure>
                         <div class="details col-xs-12 col-sm-7 col-md-8">
                             <div>
@@ -110,7 +110,7 @@
                     </article>
                     <article class="box">
                         <figure class="col-sm-5 col-md-4">
-                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/3.png"></a>
+                            <a title="" href="detail.php" class="hover-effect"><img width="270" height="160" alt="" src="images/dor/9.png"></a>
                         </figure>
                         <div class="details col-xs-12 col-sm-7 col-md-8">
                             <div>
