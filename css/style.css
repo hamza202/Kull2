@@ -14472,3 +14472,26 @@ button.ui-button::-moz-focus-inner {
 .carousel-caption{
     bottom: 50px;
 }
+
+.rowblock{
+    background:#fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.rowblock span{
+    color: red;
+}
+.rowblock .title {
+    margin-bottom: 30px;
+}
+.rowblock .alertm{
+    background: #DFDDDD;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 7px;
+    color: #222;
+}
+.rowblock .title p {
+    margin-bottom: 12px;
+}
