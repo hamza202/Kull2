@@ -97,7 +97,7 @@
                 <div class="row text-center">
                     <div class="col-sm-3">
                         <a href="#">
-                            <img class="img-responsive " src="images/icon/1.png">
+                            <img class="img-responsive " src="images/icon/0.png">
                         </a>
                         <div class="top-content">
                             <h3>Test title</h3>
@@ -108,7 +108,7 @@
                     </div>
                     <div class="col-sm-3">
                         <a href="#">
-                            <img class="img-responsive " src="images/icon/2.png">
+                            <img class="img-responsive " src="images/icon/00.png">
                         </a>
                         <div class="top-content">
                             <h3>Test title</h3>
@@ -118,7 +118,7 @@
                     </div>
                     <div class="col-sm-3">
                         <a href="#">
-                            <img class="img-responsive " src="images/icon/3.png">
+                            <img class="img-responsive " src="images/icon/000.png">
                         </a>
                         <div class="top-content">
                             <h3>Test title</h3>
@@ -128,7 +128,7 @@
                     </div>
                     <div class="col-sm-3">
                         <a style="" href="#">
-                            <img class="img-responsive " src="images/icon/4.png">
+                            <img class="img-responsive " src="images/icon/0000.png">
                         </a>
                         <div class="top-content">
                             <h3 style="">PRÁVE REALIZUJEME</h3>
